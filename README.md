@@ -1,2 +1,2 @@
 # re-commerce
-E-commerce frame based on Node, React, Redux.
+E-commerce framework based on Node, React, Redux.
